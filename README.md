@@ -1,5 +1,5 @@
 ## Certificate
-[Link to certificate](https://certificates.cs50.io/3b728f03-1ca3-4833-bf30-e7c3a53b98e0.pdf?size=letter)
+[Link to the certificate](https://certificates.cs50.io/3b728f03-1ca3-4833-bf30-e7c3a53b98e0.pdf?size=letter)
 
 ## About
 These are my solutions for the course [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/), which I took in 2023. Each solution scored 100%, according to check50's opinion. 
