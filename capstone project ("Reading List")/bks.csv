@@ -1,0 +1,398 @@
+id,title,author,year,language
+1,Lolita,Vladimir Nabokov,1955,English
+2,On the Road,William Golding,1957,English
+3,The Great Gatsby,F. Scott Fitzgerald,1925,English
+4,1984,George Orwell,1948,English
+5,A Passage to India,E.M. Forster,1924,English
+6,Atonement,Ian McEwan,2001,English
+7,Brave New World,Aldous Huxley,1932,English
+8,Catch-22,Joseph Heller,1961,English
+9,Lord of the Flies,William Golding,1955,English
+10,Midnight's Children,Salman Rushdie,1981,English
+11,The Big Sleep,Raymond Chandler,1939,English
+12,The Catcher in the Rye,J.D. Salinger,1951,English
+13,The Grapes of Wrath,John Steinbeck,1939,English
+14,The Prime of Miss Jean Brodie,Muriel Spark,1961,English
+15,The Sound and the Fury,William Faulkner,1929,English
+16,Ulysses,James Joyce,1922,English
+17,Under the Volcano,Malcolm Lowry,1947,English
+18,A Bend in the River,V.S. Naipaul,1979,English
+19,A Clockwork Orange,Anthony Burgess,1963,English
+20,A Dance to the Music of Time,Anthony Powell,1951,English
+21,A Death in the Family,Karl Ove Knausgaard,1958,English
+22,A Handful of Dust,Evelyn Waugh,1934,English
+23,American Pastoral,Philip Roth,1997,English
+24,An American Tragedy,Theodore Dreiser,1925,English
+25,Animal Farm,George Orwell,1946,English
+26,Appointment in Samarra,John O'Hara,1934,English
+27,As I Lay Dying,William Faulkner,1930,English
+28,Austerlitz,W.G. Sebald,2001,English
+29,Brideshead Revisited,Evelyn Waugh,1946,English
+30,Death Comes for the Archbishop,Willa Cather,1927,English
+31,Deliverance,James Dickey,1970,English
+32,Herzog,Saul Bellow,1964,English
+33,Housekeeping,Marilynne Robinson,1980,English
+34,"I, Claudius",Robert Graves,1934,English
+35,In Search of Lost Time (Remembrance of Things Past),Marcel Proust,1913,French
+36,Invisible Man,Ralph Ellison,1952,English
+37,Journey to the End of the Night,Louis-Ferdinand C?line,1932,French
+38,Light in August,William Faulkner,1932,English
+39,Lord Jim,Joseph Conrad,1900,English
+40,Loving,Henry Green,1945,English
+41,Lucky Jim,Kingsley Amis,1954,English
+42,Native Son,Richard Wright,1940,English
+43,Never Let Me Go,Kazuo Ishiguro,2005,English
+44,Nostromo,Joseph Conrad,1904,English
+45,One Hundred Years of Solitude,Gabriel Garc?a M?rquez,1967,Spanish
+46,Pale Fire,Vladimir Nabokov,1962,English
+47,Ragtime,E.L. Doctorow,1975,English
+48,Scoop,Evelyn Waugh,1938,English
+49,Slaughterhouse-Five,Kurt Vonnegut,1969,English
+50,Sophie's Choice,William Styron,1979,English
+51,The Bridge of San Luis Rey,Thornton Wilder,1927,English
+52,The Call of the Wild,Jack London,1903,English
+53,The Corrections,Jonathan Franzen,2001,English
+54,The Day of the Locust,Nathaniel West,1939,English
+55,The Death of the Heart,Elizabeth Bowen,1938,English
+56,The Good Soldier,Ford Madox Ford,1915,English
+57,The Heart of the Matter,Graham Greene,1948,English
+58,The Lord of the Rings,J.R.R. Tolkien,1954,English
+59,The Moviegoer,Walker Percy,1961,English
+60,The Rainbow,D.H. Lawrence,1915,English
+61,The Sheltering Sky,Paul Bowles,1949,English
+62,The Sun Also Rises,Ernest Hemingway,1926,English
+63,The Trial,Franz Kafka,1925,German
+64,Things Fall Apart,Chinua Achebe,1958,English
+65,To the Lighthouse,Virginia Woolf,1927,English
+66,Tropic of Cancer,Henry Miller,1934,English
+67,Under the Net,Iris Murdoch,1954,English
+68,White Teeth,Zadie Smith,2000,English
+69,Wide Sargasso Sea,Jean Rhys,1966,English
+70,A House for Mr. Biswas,V.S. Naipaul,1961,English
+71,All the King's Men,Robert Penn Warren,1946,English
+72,Go Tell It on the Mountain,James Baldwin,1953,English
+73,Gone with the Wind,Margaret Mitchell,1936,English
+74,Money,Martin Amis,1984,English
+75,Mrs Dalloway,Virginia Woolf,1925,English
+76,Portnoy's Complaint,Philip Roth,1969,English
+77,The Adventures of Augie March,Saul Bellow,1953,English
+78,The Heart is a Lonely Hunter,Carson McCullers,1940,English
+79,To Kill a Mockingbird,Harper Lee,1960,English
+80,U.S.A. (trilogy),John Dos Passos,1937,English
+81,A Farewell to Arms,Ernest Hemingway,1929,English
+82,A High Wind in Jamaica,Richard Hughes,1929,English
+83,A Little Life,Hanya Yanagihara,2015,English
+84,A Portrait of the Artist as a Young Man,James Joyce,1916,English
+85,A Room of One's Own,Virginia Woolf,1929,English
+86,A Room With a View,E.M. Forster,1908,English
+87,A Visit from The Goon Squad,Jennifer Egan,2010,English
+88,Adults in the Room,Yanis Varoufakis,2017,English
+89,Alcools,Guillaume Apollinaire,1913,French
+90,Alice's Adventures In Wonderland,Lewis Carroll,1865,English
+91,Amers,Saint-John Perse,1957,French
+92,An Artist of the Floating World,Kazuo Ishiguro,1986,English
+93,Angle of Repose,Wallace Stegner,1971,English
+94,Anna Karenina,Leo Tolstoy,1878,Russian
+95,"Are You There God? It's Me, Margaret",Judy Blume,1970,English
+96,Asterix the Gaul,Ren? Goscinny and Albert Uderzo,1959,French
+97,At Swim-Two-Birds,Flann O'Brien,1939,English
+98,Aur?lien,Louis Aragon,1944,French
+99,Autumn,Ali Smith,2016,English
+100,Bad Blood,Lorna Sage,2000,English
+101,Being and Nothingness,Jean-Paul Sartre,1943,French
+102,Belle du Seigneur,Albert Cohen,1968,French
+103,Beloved,Toni Morrison,1987,English
+104,Between the World and Me,Ta-Nehisi Coates,2015,English
+105,Blake and Mortimer,Edgar P. Jacobs,1950,French
+106,Blood Meridian,Cormac McCarthy,1985,English
+107,Bonjour Tristesse,Fran?oise Sagan,1954,French
+108,Broken Glass,Alain Mabanckou,2005,French
+109,Brooklyn,Colm T?ib?n,2009,English
+110,Call It Sleep,Henry Roth,1934,English
+111,Capital in the Twenty First Century,Thomas Piketty,2013,French
+112,Capital of Pain,Paul ?luard,1926,French
+113,Charlotte's Web,E.B. White,1952,English
+114,Chronicles: Volume One,Bob Dylan,2004,English
+115,Citizen: An American Lyric,Claudia Rankine,2014,English
+116,Clarissa,Samuel Richardson,1748,English
+117,Cloud Atlas ,David Mitchell,2004,English
+118,Confusion of Feelings,Stefan Zweig,1944,German
+119,Contempt/A Ghost at Noon,Alberto Moravia,1954,Italian
+120,Coraline,Neil Gaiman,2002,English
+121,Dangerous Liaisons,Pierre Choderlos De Laclos,1782,French
+122,Daniel Deronda,George Eliot,1876,English
+123,Darkmans,Nicola Barker,2007,English
+124,Darkness at Noon,Arthur Koestler,1940,German/English
+125,Dart,Alice Oswald,2002,English
+126,David Copperfield,Charles Dickens,1849,English
+127,Days Without End,Sebastian Barry,2016,English
+128,Dog Soldiers,Robert Stone,1974,English
+129,Don Quixote,Miguel De Cervantes,1605,Spanish
+130,Drive Your Plow Over the Bones of the Dead,Olga Tokarczuk,2009,Polish
+131,?crits,Jacques Lacan,1966,French
+132,Emma,Jane Austen,1815,English
+133,Experience,Martin Amis,2000,English
+134,Falconer,John Cheever,1977,English
+135,Ficciones,Jorge Luis Borges,1941,Spanish
+136,Fingersmith,Sarah Waters,2002,English
+137,Finnegans Wake,James Joyce,1939,English
+138,For Whom the Bell Tolls,Ernest Hemingway,1940,English
+139,Frankenstein,Mary Shelley,1818,English
+140,Friday,Michel Tournier,1967,French
+141,From Here to Eternity,James Jones,1951,English
+142,Froth on the Daydream,Boris Vian,1947,French
+143,Fun Home,Alison Bechdel,2006,English
+144,Furor and Mystery,Ren? Char,1948,French
+145,Gaston (Gomer Goof),Andr? Franquin,1957,French
+146,Gilead,Marilynne Robinson,2004,English
+147,Gone Girl,Gillian Flynn,2012,English
+148,Gravity's Rainbow,Thomas Pynchon,1973,English
+149,Gulliver's Travels,Jonathan Swift,1726,English
+150,Gypsy Ballads,Federico Garc?a Lorca,1928,Spanish
+151,Half of a Yellow Sun,Chimamanda Ngozi Adichie,2006,English
+152,Haroun and the Sea of Stories,Salman Rushdie,1990,English
+153,Harry Potter and the Goblet of Fire,JK Rowling,2000,English
+154,Harvest,Jim Crace,2013,English
+155,"Hateship, Friendship, Courtship, Loveship, Marriage",Alice Munro,2001,English
+156,Heart of Darkness,Joseph Conrad,1899,English
+157,Henderson The Rain King,Saul Bellow,1959,English
+158,Hope in the Dark,Rebecca Solnit,2004,English
+159,Howards End,E. M. Forster,1910,English
+160,The Adventures of Huckleberry Finn,Mark Twain,1884,English
+161,Human Chain,Seamus Heaney,2010,English
+162,I Feel Bad About My Neck,Nora Ephron,2006,English
+163,If on a Winter's Night a Traveller,Italo Calvino,1979,Italian
+164,"If This Is a Man (Se questo ? un uomo, Survival in Auschwitz)",Primo Levi,1947,Italian
+165,Infinite Jest,David Foster Wallace,1996,English
+166,Ironweed,William Kennedy,1983,English
+167,Jane Eyre,Charlotte Bront?,1847,English
+168,Jimmy Corrigan: The Smartest Kid on Earth,Chris Ware,2000,English
+169,"Journal, 1887-1910",Jules Renard,1925,French
+170,Jude the Obscure,Tomas Hardy,1894,English
+171,Kim,Rudyard Kipling,1901,English
+172,LA Confidential,James Ellroy,1990,English
+173,Lady Chatterley's Lover,D.H. Lawrence,1928,English
+174,Lanark,Alasdair Gray,1981,English
+175,Le Grand Meaulnes,Alain-Fournier,1913,French
+176,Le Silence de la mer,Vercors,1942,French
+177,Levels of Life,Julian Barnes,2013,English
+178,Life After Life,Kate Atkinson,2013,English
+179,Life: A User's Manual,Georges Perec,1978,French
+180,Light,M John Harrison,2002,English
+181,Little Women,Louisa M. Alcott,1868,English
+182,Madame Bovary,Gustave Flaubert,1857,French
+183,Main Street,Sinclair Lewis,1920,English
+184,Malone Dies,Samuel Beckett,1951,French
+185,Manhattan Transfer,John Dos Passos,1925,English
+186,Man's Fate,Andr? Malraux,1933,French
+187,Martin Eden,Jack London,1909,English
+188,Men Without Women,Ernest Hemingway,1927,English
+189,Moby-Dick,Herman Melville,1851,English
+190,Moneyball,Michael Lewis,2003,English
+191,Moravagine,Blaise Cendrars,1926,French
+192,Mother's Milk,Edward St Aubyn,2006,English
+193,Mrs Palfrey at the Claremont ,Elizabeth Taylor,1971,English
+194,My Brilliant Friend,Elena Ferrante,2011,Italian
+195,Nadja,Andr? Breton,1928,French
+196,Naked Lunch,William Burroughs,1959,English
+197,Neuromancer,William Gibson,1984,English
+198,Nickel and Dimed,Barbara Ehrenreich,2001,English
+199,Night Watch,Terry Pratchett,2002,English
+200,Nightmare Abbey,Thomas Love Peacock,1818,English
+201,No Orchids For Miss Blandish,James Hadley Chase,1939,English
+202,Normal People,Sally Rooney,2018,English
+203,Northern Lights ,Philip Pullman,1995,English
+204,Notes on a Scandal,Zo? Heller,2003,English
+205,Nothing to Envy,Barbara Demick,2009,English
+206,Noughts & Crosses,Malorie Blackman,2001,English
+207,Of Human Bondage,W. Somerset Maugham,1915,English
+208,On Writing,Stephen King,2000,English
+209,One Flew Over the Cuckoo's Nest,Ken Kesey,1962,English
+210,Oryx and Crake,Margaret Atwood,2003,English
+211,Oscar And Lucinda,Peter Carey,1988,English
+212,Our Lady of the Flowers,Jean Genet,1944,French
+213,Outline,Rachel Cusk,2014,English
+214,Parade's End,Ford Madox Ford,1924,English
+215,Paroles,Jacques Pr?vert,1946,French
+216,Persepolis,Marjane Satrapi,2000,French
+217,Pilgrim's Progress,John Bunyan,1678,English
+218,Play It As It Lays,Joan Didion,1970,English
+219,Point Counter Point,Aldous Huxley,1928,English
+220,Possession,A.S. Byatt,1990,English
+221,Postwar,Tony Judt,2005,English
+222,Priestdaddy,Patricia Lockwood,2017,English
+223,"Rabbit, Run",John Updike,1960,English
+224,Rapture,Carol Ann Duffy,2005,English
+225,Red Harvest,Dashiell Hammett,1929,English
+226,Revolutionary Road,Richard Yates,1961,English
+227,Robinson Crusoe,Daniel Defoe,1719,English
+228,Sapiens,Yuval Noah Harari,2011,Hebrew
+229,Second Thoughts,Michel Butor,1957,French
+230,Secondhand Time,Svetlana Alexievich,2013,Russian
+231,Seven Brief Lessons on Physics,Carlo Rovelli,2014,English
+232,Signs Preceding the End of the World,Yuri Herrera,2009,Spanish
+233,Sister Carrie,Theodore Dreiser,1900,English
+234,Six Characters in Search of an Author,Luigi Pirandello,1921,Italian
+235,Small Island,Andrea Levy,2004,English
+236,Snow Crash,Neal Stephenson,1992,English
+237,Song of Solomon,Toni Morrison,1977,English
+238,Sons and Lovers,D.H. Lawrence,1913,English
+239,Stories of Your Life and Others,Ted Chiang,2002,English
+240,Studs Lonigan,James T. Farrell,1932,English
+241,Sybil,Benjamin Disraeli,1845,English
+242,Tell Me How It Ends,Valeria Luiselli,2016,English
+243,Tender Is the Night,F. Scott Fitzgerald,1934,English
+244,Tenth of December,George Saunders,2013,English
+245,The Abyss (Zeno of Bruges),Marguerite Yourcenar,1968,French
+246,The Age of Innocence,Edith Wharton,1920,English
+247,The Age of Surveillance Capitalism,Shoshana Zuboff,2019,English
+248,The Alexandria Quartet,Lawrence Durrell,1957,English
+249,The Amazing Adventures of Kavalier and Clay,Michael Chabon,2000,English
+250,The Ambassadors,Henry James,1903,English
+251,The Amber Spyglass,Philip Pullman,2000,English
+252,The Argonauts,Maggie Nelson,2015,English
+253,The Assistant,Bernard Malamud,1957,English
+254,The Bald Soprano,Eug?ne Ionesco,1952,French
+255,The Ballad of the Salty Sea,Hugo Pratt,1967,Italian
+256,The Beauty of the Husband,Anne Carson,2001,English
+257,The Berlin Stories,Christopher Isherwood,1945,English
+258,The BFG,Roald Dahl,1982,English
+259,The Black Sheep (La Rabouilleuse),Honor? De Balzac,1842,French
+260,The Blind Assassin,Margaret Atwood,2000,English
+261,The Blue Lotus,Herg?,1936,French
+262,The Book of Laughter and Forgetting,Milan Kundera,1979,Czech
+263,The Bottle Factory Outing,Beryl Bainbridge,1974,English
+264,The Brothers Karamazov,Fyodor Dostoevsky,1880,Russian
+265,The Charterhouse of Parma,The Charterhouse of Parma,1839,French
+266,The Confessions of Nat Turner,The Confessions of Nat Turner,1967,English
+267,The Constant Gardener,The Constant Gardener,2001,"English, German, Swahili"
+268,The Cost of Living,Deborah Levy,2018,English
+269,The Count of Monte Cristo,Alexandre Dumas,1844,French
+270,The Counterfeiters,Andr? Gide,1925,French
+271,The Crying of Lot 49,Thomas Pynchon,1966,English
+272,The Curious Incident of the Dog in the Night-Time,Mark Haddon,2003,English
+273,The Diary of a Nobody,George Grossmith,1892,English
+274,The Diary of a Young Girl,Anne Frank,1947,Dutch
+275,The Emperor of All Maladies,Siddhartha Mukherjee,2010,English
+276,The Executioner's Song,Norman Mailer,1979,English
+277,The Fifth Season,N.K. Jemisin,2015,English
+278,The French Lieutenant's Woman,John Fowles,1969,English
+279,The General of the Dead Army,Ismail Kadare,1963,Albanian
+280,The Ginger Man,J.P. Donleavy,1955,English
+281,The Girl With the Dragon Tattoo,Stieg Larsson,2005,Swedish
+282,The God Delusion,Richard Dawkins,2006,English
+283,The Golden Bowl,Henry James,1904,English
+284,The Golden Notebook,Doris Lessing,1962,English
+285,The Green Road,Anne Enright,2015,English
+286,The Gulag Archipelago,Edmund de Waal,1973,Russian
+287,The Hare with Amber Eyes,Edmund de Waal,2010,English
+288,The Horseman on the Roof,Jean Giono,1951,French
+289,The Hound of the Baskervilles,Arthur Conan Doyle,1901,English
+290,The House of Mirth,Edith Wharton,1905,English
+291,The Immortal Life of Henrietta Lacks,Rebecca Skloot,2010,English
+292,The Infatuations,Javier Mar?as,2011,Spanish
+293,The Interrogation,J.M.G. Le Cl?zio,1963,French
+294,The Joke,Milan Kundera,1967,Czech
+295,The Line of Beauty,Alan Hollinghurst,2004,English
+296,"The Lion, the Witch and the Wardrobe",C.S. Lewis,1950,English
+297,The Little Prince,Antoine de Saint-Exup?ry,1943,French
+298,The Lost Honour of Katharina Blum,Heinrich B?ll,1974,German
+299,The Magic Mountain,Thomas Mann,1924,German
+300,The Magnificent Ambersons,Booth Tarkington,1918,English
+301,The Magus,John Fowles,1965,English
+302,The Maltese Falcon,Dashiell Hammett,1930,English
+303,The Man Who Loved Children,Christina Stead,1940,English
+304,The Man Without Qualities,Robert Musil,1930,German
+305,The Martian Chronicles,Ray Bradbury,1950,English
+306,The Master and Margarita,Mikhail Bulgakov,1967,Russian
+307,The Murder of Roger Ackroyd,Agatha Christie,1926,English
+308,The Naked and the Dead,Norman Mailer,1948,English
+309,The Name of the Rose,Umberto Eco,1980,Italian
+310,The New York Trilogy,Paul Auster,1987,English
+311,The Noonday Demon,Andrew Solomon,2001,English
+312,The Notebooks of Malte Laurids Brigge,Rainer Maria Rilke,1910,German
+313,The Old Wives' Tale,Arnold Bennett,1908,English
+314,The Omnivore's Dilemma,Michael Pollan,2006,English
+315,The Opposing Shore,Julien Gracq,1951,French
+316,The Order of Things,Michel Foucault,1966,French
+317,The Origins of Totalitarianism,Hannah Arendt,1951,English
+318,The Painted Bird,Jerzy Kosinski,1965,English
+319,The Periodic Table,Primo Levi,1975,Italian
+320,The Picture of Dorian Gray,Gray Oscar Wilde,1890,English
+321,The Plague,Albert Camus,1947,French
+322,The Plot Against America,Philip Roth,2004,English
+323,The Portrait of a Lady,Henry James,1980,English
+324,The Postman Always Rings Twice,James M. Cain,1934,English
+325,The Power and the Glory,Graham Greene,1940,English
+326,The Pursuit Of Love,Nancy Mitford,1945,English
+327,The Quiet American,Graham Greene,1955,English
+328,The Ravishing of Lol Stein,Marguerite Duras,1964,French
+329,The Recognitions,William Gaddis,1955,English
+330,The Resistible Rise of Arturo Ui,Bertolt Brecht,1941,German
+331,The Riddle of the Sands,Erskine Childers,1903,English
+332,The Road,Cormac McCarthy,2006,English
+333,The Rosy Crucifixion,Henry Miller,1949,English
+334,The Satin Slipper,Paul Claudel,1929,French
+335,The Scarlet Letter,Nathaniel Hawthorne,1850,English
+336,The Second Sex,Simone de Beauvoir,1949,French
+337,The Secret Agent,Joseph Conrad,1907,English
+338,The Shock Doctrine,Naomi Klein,2007,English
+339,The Siege,Helen Dunmore,2001,English
+340,The Silence of the Girls,Pat Barker,2018,English
+341,The Sixth Extinction,Elizabeth Kolbert,2014,English
+342,The Sot-Weed Factor,John Barth,1960,English
+343,The Spirit Level,Richard Wilkinson and Kate Pickett,2009,English
+344,The Sportswriter,Richard Ford,1986,English
+345,The Spy Who Came In From the Cold,John le Carre,1963,English
+346,The Strange Case of Dr Jekyll and Mr Hyde,Robert Louis Stevenson,1886,English
+347,The Strange Case of Peter the Lett,Georges Simenon,1931,French
+348,The Stranger (The Outsider),Albert Camus,1942,French
+349,The Tartar Steppe,Dino Buzzati,1940,Italian
+350,The Tendrils of the Vine,Colette,1908,French
+351,The Theatre and Its Double,Antonin Artaud,1938,French
+352,The Thirty-Nine Steps,John Buchan,1915,English
+353,The Tin Drum,G?nter Grass,1959,German
+354,The Tipping Point,Malcolm Gladwell,2000,English
+355,The Underground Railroad,Colson Whitehead,2016,English
+356,The Wapshot Chronicle,John Cheever,1957,English
+357,The War of the Worlds,H.G. Wells,1898,English
+358,The Way We Live Now,Anthony Trollope,1875,English
+359,The Wind in the Willows,Kenneth Grahame,1908,English
+360,The Woman in White,Wilkie Collins,1859,English
+361,The Wonderful Adventures of Nils,Selma Lagerl?f,1906,Swedish
+362,The Year of Magical Thinking,Joan Didion,2005,English
+363,Their Eyes Were Watching God,Zora Neale Hurston,1937,English
+364,Th?r?se Desqueyroux,Fran?ois Mauriac,1927,French
+365,"Thinking, Fast and Slow",Daniel Kahneman,2011,English
+366,This House of Grief,Helen Garner,2014,English
+367,Three Essays on the Theory of Sexuality,Sigmund Freud,1905,German
+368,Three Men in a Boat,Jerome K. Jerome,1889,English
+369,Tinker Tailor Soldier Spy, John Le Carr?,1974,English
+370,Tobacco Road,Erskine Caldwell,1932,English
+371,Tom Jones,Henry Fielding,1749,English
+372,Tristes Tropiques,Claude L?vi-Strauss,1955,French
+373,Tristram Shandy, Laurence Sterne,1759,English
+374,Tropisms,Nathalie Sarraute,1939,French
+375,True History of the Kelly Gang,Peter Carey,2000,English
+376,Ubik,Philip K. Dick,1969,English
+377,Under the Sun of Satan,Georges Bernanos,1926,French
+378,Underland,Robert Macfarlane,2019,English
+379,Vanity Fair,William Makepeace Thackeray,1848,English
+380,Visitation,Jenny Erpenbeck,2008,German
+381,Waiting for Godot,Samuel Beckett,1952,French
+382,Waiting for the Barbarians,JM Coetzee,1980,English
+383,Watchmen,Alan Moore & Dave Gibbons,1986,English
+384,Way of All Flesh,Samuel Butler,1903,English
+385,White Noise,Don DeLillo,1985,English
+386,Why Be Happy When You Could Be Normal?,Jeanette Winterson,2011,English
+387,"Winesburg, Ohio",Sherwood Anderson,1919,English
+388,Wings of the Dove,Henry James,1902,English
+389,Wise Blood,Flannery O'Connor,1952,English
+390,Wise Children,Angela Carter,1991,English
+391,Wolf Hall,Hilary Mantel,2009,English
+392,Women & Power,Mary Beard,2017,English
+393,Women in Love,D. H. Lawrence,1920,English
+394,Writing Degree Zero,Roland Barthes,1953,French
+395,Wuthering Heights,Emily Bront?,1847,English
+396,Zazie in the Metro,Raymond Queneau,1959,French
+397,Zuleika Dobson,Max Beerbohm,1911,English
